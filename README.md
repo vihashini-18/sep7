@@ -14,6 +14,7 @@ It allows users to log in, upload **Wholesale Customers Data**, and perform **KM
 - 🎨 **Cluster Visualization** – Scatter plot with distinct colors.
 - 📂 **Custom Data Upload** – Use your own CSV dataset.
 - 🌐 **Gradio Web Interface** – Runs locally in the browser.
+- app link :https://huggingface.co/spaces/vihashini/sep7
 
 ---
 
